@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-23T22:42:06Z" name="Suite" finished-at="2024-06-23T22:42:12Z" duration-ms="5983">
+    <groups>
+    </groups>
+    <test started-at="2024-06-23T22:42:06Z" name="Test" finished-at="2024-06-23T22:42:12Z" duration-ms="5983">
+      <class name="com.pupu.TestAppian">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pupu.TestAppian@378542de]" started-at="2024-06-23T15:42:06Z" name="beforeMethod" finished-at="2024-06-23T15:42:09Z" duration-ms="2198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="f()[pri:0, instance:com.pupu.TestAppian@378542de]" started-at="2024-06-23T15:42:09Z" name="f" finished-at="2024-06-23T15:42:12Z" duration-ms="3534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pupu.TestAppian@378542de]" started-at="2024-06-23T15:42:12Z" name="afterMethod" finished-at="2024-06-23T15:42:12Z" duration-ms="229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.pupu.TestAppian -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
