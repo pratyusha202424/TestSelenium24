@@ -25,7 +25,8 @@ private WebElement element;
 	  dr=new ChromeDriver();
 	  baseUrl="https://community.appian.com/";
 	  
-	  System.out.println("----Before Method---");
+	  //System.out.println("----Before Method---");
+	  
   }
   
   @Test
